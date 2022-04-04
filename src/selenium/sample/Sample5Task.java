@@ -7,10 +7,10 @@ import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
+import static org.junit.Assert.assertEquals;
 import java.io.File;
 
-import static org.junit.Assert.assertEquals;
+
 
 public class Sample5Task {
     WebDriver driver;
